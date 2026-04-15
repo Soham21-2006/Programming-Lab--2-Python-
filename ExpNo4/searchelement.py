@@ -1,0 +1,1 @@
+print("Found" if int(input("Enter element: ")) in list(map(int, input("Enter list: ").split())) else "Not Found")
