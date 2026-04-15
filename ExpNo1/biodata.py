@@ -1,0 +1,18 @@
+print("Enter your biodata:")
+
+name = input("Name: ")
+age = input("Age: ")
+gender = input("Gender: ")
+address = input("Address: ")
+phone = input("Phone: ")
+email = input("Email: ")
+qualification = input("Qualification: ")
+
+print("\n----- PERSONAL BIODATA -----")
+print(f"Name          : {name}")
+print(f"Age           : {age}")
+print(f"Gender        : {gender}")
+print(f"Address       : {address}")
+print(f"Phone         : {phone}")
+print(f"Email         : {email}")
+print(f"Qualification : {qualification}")
